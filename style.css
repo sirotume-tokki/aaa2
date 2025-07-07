@@ -54,7 +54,7 @@ header {
   }
 .hero {
     height: 100vh;
-    background-image: url('images/hero1.jpg');
+    background-image: url('hero1.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -70,7 +70,7 @@ nav ul{
 }
 .intro {
   height: 100vh;
-  background-image: url('images/intro.jpg');
+  background-image: url('intro.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
