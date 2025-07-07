@@ -54,7 +54,7 @@ header {
   }
 .hero {
     height: 100vh;
-    background-image: url('hero1.jpg');
+    background-image: url('https://sirotume-tokki.github.io/aaa2/hero1.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
