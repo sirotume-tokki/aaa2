@@ -215,7 +215,7 @@ nav ul{
 /*AI作成*/
 .company-hero {
   position: relative;
-  background-image: url('images/company.jpg'); /* ビルの写真をここに */
+  background-image: url('company.jpg'); /* ビルの写真をここに */
   background-size: cover;
   background-position: center;
   height: 100vh;
